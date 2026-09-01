@@ -52,9 +52,6 @@ Execute the program and analyze the generated visualizations to identify meaning
 
 ## PROGRAM:
 
-*(Paste the Python code for COVID-19 Dataset Analysis and Visualization here.)*
-
-## OUTPUT:
 ```
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -133,7 +130,8 @@ plt.xlabel("Active Cases")
 plt.ylabel("Frequency")
 plt.show()
 ```
-## RESULT:
+
+## OUTPUT:
 <img width="534" height="559" alt="01" src="https://github.com/user-attachments/assets/f20659a7-f438-450c-97e9-0fa7c40652b2" />
 
 <img width="621" height="452" alt="02" src="https://github.com/user-attachments/assets/f3bde030-d86a-4033-91d8-05cf878d7ae7" />
@@ -146,5 +144,6 @@ plt.show()
 
 <img width="607" height="455" alt="07" src="https://github.com/user-attachments/assets/1b199ef3-dfe6-4dc8-94b9-77e1ee4cac87" />
 
-#Result:
+## RESULT:
+
 The COVID-19 dataset was successfully analysed using Python. The dataset was explored using Pandas, and meaningful trends and relationships were visualized using different types of graphs such as line graph, bar chart, pie chart, scatter plot, and histogram using Matplotlib.
